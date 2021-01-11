@@ -1,0 +1,12 @@
+0.   [192.168.0.1]  Time: 3 ms  TTL: 64
+1.	0 ms	0 ms	0 ms	192.168.0.1	dir-320
+
+Host ok....
+0.   [192.168.0.1]  Time: 1 ms  TTL: 64
+ 
+----ARP Table:
+ 
+ip:	192.168.0.1		mac:	34-08-04-36-28-14
+ 
+----ARP Table end. 
+ 
